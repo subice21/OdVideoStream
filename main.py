@@ -12,8 +12,8 @@
 #  live Object Detection in video stream 
 # Usage:
 # 1. Install Python dependencies: cv2, flask. (wish that pip install works like a charm)
-# 2. Run "python main.py".
-# 3. in camera.py edit where is cv2 Haar located
+# 2. in camera.py edit where is cv2 Haar located
+# 3. Run "python main.py".
 # 4. Navigate the browser to the local webpage.
 
 from flask import Flask, render_template, Response

@@ -7,8 +7,8 @@ http://diymaker.me
 Modified to support streaming out with webcams and Object Detection 
 
 ### Credits
-http://www.chioka.in
-https://docs.opencv.org/master/db/d28/tutorial_cascade_classifier.html
+[ http://www.chioka.in ,
+https://docs.opencv.org/master/db/d28/tutorial_cascade_classifier.html ]
 
 
 ### Usage
